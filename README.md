@@ -3,6 +3,8 @@
 This repository contains the implementation of our paper, "Modeling Real Estate Dynamics Using Temporal Encoding", ACM SIGSPATIAL 2021.
 ![Comparing models](/figs/compareModels2.png)
 ![Comparing models](/figs/compareModels.png)
+(RF= Random Forest; SVM= Support Vector Machine; DT= Decision Tree; LR= Linear Regression; MLP= Multilayer Perceptron; LSTM=Long Short-Term Memory)
+
 
 
 ## Setup
