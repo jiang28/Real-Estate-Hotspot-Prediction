@@ -7,3 +7,4 @@ This repository contains the implementation of our paper, Modeling Real Estate D
 - Numpy
 - Pandas
 - matplotlib
+- scikit-learn
