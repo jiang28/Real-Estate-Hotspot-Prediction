@@ -9,4 +9,5 @@ This repository contains the implementation of our paper, "Modeling Real Estate 
 - matplotlib
 - scikit-learn
 
-## How to run
+## Getting Started
+We provide baseline models for download in *[here](https://github.com/jiang28/Real-Estate-Hotspot-Prediction/tree/master/Baseline%20models)*..
