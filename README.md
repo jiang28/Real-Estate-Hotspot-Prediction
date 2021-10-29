@@ -13,7 +13,8 @@ This repository contains the implementation of our paper, "Modeling Real Estate 
 
 
 ## Setup
-### Required Packages
+### Dependencies
+- Python3
 - Numpy
 - Pandas
 - matplotlib
