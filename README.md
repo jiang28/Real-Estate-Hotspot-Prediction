@@ -1,4 +1,7 @@
 # A Large-Scale Dataset for Real Estate Hotspot Prediction
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/jiang28/Real-Estate-Hotspot-Prediction/blob/master/LICENSE)
+
+
 
 This repository contains the implementation of our paper, "Modeling Real Estate Dynamics Using Temporal Encoding", ACM SIGSPATIAL 2021.
 ![Comparing models](/figs/compareModels2.png)
