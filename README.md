@@ -3,7 +3,7 @@
 
 
 
-This repository contains the implementation of our paper, "Modeling Real Estate Dynamics Using Temporal Encoding", ACM SIGSPATIAL 2021.
+This repository contains the implementation of our paper, *["Modeling Real Estate Dynamics Using Temporal Encoding", ACM SIGSPATIAL 2021.](https://dl.acm.org/doi/10.1145/3474717.3484254)*.
 ![Comparing models](/figs/compareModels2.png)
 ![Comparing models](/figs/compareModels.png)
 
